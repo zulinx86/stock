@@ -21,7 +21,7 @@ def preprocess():
 def calc(reader):
 	total = 0
 	div = 27.769 # 2020-12-01
-	data = {}
+	data = {'stock': {}}
 	for i, stock in enumerate(reader):
 		# remove the last line
 		if i == 225:
@@ -39,7 +39,7 @@ def calc(reader):
 		total += adj
 
 		# save data
-		data[stock['コード']] = {
+		data['stock'][stock['コード']] = {
 			'name': stock['銘柄名'],
 			'industry': stock['業種'],
 			'sector': stock['セクター'],
@@ -47,8 +47,8 @@ def calc(reader):
 			'adjust': adj
 		}
 
-	for code in data:
-		data[code]['percent'] = data[code]['adjust'] / total * 100.0
+	for code in data['stock']:
+		data['stock'][code]['percent'] = data['stock'][code]['adjust'] / total * 100.0
 
 	nikkei225 = total / div	
 	data['total'] = total
