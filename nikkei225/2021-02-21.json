@@ -1,0 +1,1578 @@
+{
+  "1332": {
+    "name": "日本水産",
+    "industry": "水産",
+    "sector": "消費",
+    "value": 497.0,
+    "adjust": 497.0
+  },
+  "1333": {
+    "name": "マルハニチロ",
+    "industry": "水産",
+    "sector": "消費",
+    "value": 2430.0,
+    "adjust": 243.0
+  },
+  "1605": {
+    "name": "国際石油開発帝石",
+    "industry": "鉱業",
+    "sector": "素材",
+    "value": 757.0,
+    "adjust": 302.8
+  },
+  "1721": {
+    "name": "コムシスホールディングス",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 3250.0,
+    "adjust": 3250.0
+  },
+  "1801": {
+    "name": "大成建設",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 3770.0,
+    "adjust": 754.0
+  },
+  "1802": {
+    "name": "大林組",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 911.0,
+    "adjust": 911.0
+  },
+  "1803": {
+    "name": "清水建設",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 806.0,
+    "adjust": 806.0
+  },
+  "1808": {
+    "name": "長谷工コーポレーション",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 1363.0,
+    "adjust": 272.6
+  },
+  "1812": {
+    "name": "鹿島建設",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 1424.0,
+    "adjust": 712.0
+  },
+  "1925": {
+    "name": "大和ハウス工業",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 3267.0,
+    "adjust": 3267.0
+  },
+  "1928": {
+    "name": "積水ハウス",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 2083.0,
+    "adjust": 2083.0
+  },
+  "1963": {
+    "name": "日揮ホールディングス",
+    "industry": "建設",
+    "sector": "資本財・その他",
+    "value": 1315.0,
+    "adjust": 1315.0
+  },
+  "2002": {
+    "name": "日清製粉グループ本社",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 1727.0,
+    "adjust": 1727.0
+  },
+  "2269": {
+    "name": "明治ホールディングス",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 7060.0,
+    "adjust": 1412.0
+  },
+  "2282": {
+    "name": "日本ハム",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 4680.0,
+    "adjust": 2340.0
+  },
+  "2413": {
+    "name": "エムスリー",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 8838.0,
+    "adjust": 21211.2
+  },
+  "2432": {
+    "name": "ディー・エヌ・エー",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 2215.0,
+    "adjust": 664.5
+  },
+  "2501": {
+    "name": "サッポロホールディングス",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 2198.0,
+    "adjust": 439.6
+  },
+  "2502": {
+    "name": "アサヒグループホールディングス",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 4521.0,
+    "adjust": 4521.0
+  },
+  "2503": {
+    "name": "キリンホールディングス",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 2117.0,
+    "adjust": 2117.0
+  },
+  "2531": {
+    "name": "宝ホールディングス",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 1522.0,
+    "adjust": 1522.0
+  },
+  "2768": {
+    "name": "双日",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 273.0,
+    "adjust": 27.3
+  },
+  "2801": {
+    "name": "キッコーマン",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 7480.0,
+    "adjust": 7480.0
+  },
+  "2802": {
+    "name": "味の素",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 2274.0,
+    "adjust": 2274.0
+  },
+  "2871": {
+    "name": "ニチレイ",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 2854.0,
+    "adjust": 1427.0
+  },
+  "2914": {
+    "name": "日本たばこ産業",
+    "industry": "食品",
+    "sector": "消費",
+    "value": 1930.0,
+    "adjust": 1930.0
+  },
+  "3086": {
+    "name": "Ｊ．フロントリテイリング",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 988.0,
+    "adjust": 494.0
+  },
+  "3099": {
+    "name": "三越伊勢丹ホールディングス",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 723.0,
+    "adjust": 723.0
+  },
+  "3101": {
+    "name": "東洋紡",
+    "industry": "繊維",
+    "sector": "素材",
+    "value": 1329.0,
+    "adjust": 132.9
+  },
+  "3103": {
+    "name": "ユニチカ",
+    "industry": "繊維",
+    "sector": "素材",
+    "value": 449.0,
+    "adjust": 44.9
+  },
+  "3105": {
+    "name": "日清紡ホールディングス",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 788.0,
+    "adjust": 788.0
+  },
+  "3289": {
+    "name": "東急不動産ホールディングス",
+    "industry": "不動産",
+    "sector": "資本財・その他",
+    "value": 668.0,
+    "adjust": 668.0
+  },
+  "3382": {
+    "name": "セブン＆アイ・ホールディングス",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 4191.0,
+    "adjust": 4191.0
+  },
+  "3401": {
+    "name": "帝人",
+    "industry": "繊維",
+    "sector": "素材",
+    "value": 1864.0,
+    "adjust": 372.8
+  },
+  "3402": {
+    "name": "東レ",
+    "industry": "繊維",
+    "sector": "素材",
+    "value": 702.7999877929688,
+    "adjust": 702.7999877929688
+  },
+  "3405": {
+    "name": "クラレ",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 1177.0,
+    "adjust": 1177.0
+  },
+  "3407": {
+    "name": "旭化成",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 1133.0,
+    "adjust": 1133.0
+  },
+  "3436": {
+    "name": "ＳＵＭＣＯ",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 2411.0,
+    "adjust": 241.1
+  },
+  "3659": {
+    "name": "ネクソン",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 3555.0,
+    "adjust": 7110.0
+  },
+  "3861": {
+    "name": "王子ホールディングス",
+    "industry": "パルプ・紙",
+    "sector": "素材",
+    "value": 699.0,
+    "adjust": 699.0
+  },
+  "3863": {
+    "name": "日本製紙",
+    "industry": "パルプ・紙",
+    "sector": "素材",
+    "value": 1384.0,
+    "adjust": 138.4
+  },
+  "4004": {
+    "name": "昭和電工",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 2601.0,
+    "adjust": 260.1
+  },
+  "4005": {
+    "name": "住友化学",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 512.0,
+    "adjust": 512.0
+  },
+  "4021": {
+    "name": "日産化学",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 6310.0,
+    "adjust": 6310.0
+  },
+  "4042": {
+    "name": "東ソー",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 1951.0,
+    "adjust": 975.5
+  },
+  "4043": {
+    "name": "トクヤマ",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 2641.0,
+    "adjust": 528.2
+  },
+  "4061": {
+    "name": "デンカ",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 4095.0,
+    "adjust": 819.0
+  },
+  "4063": {
+    "name": "信越化学工業",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 18620.0,
+    "adjust": 18620.0
+  },
+  "4151": {
+    "name": "協和キリン",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 3155.0,
+    "adjust": 3155.0
+  },
+  "4183": {
+    "name": "三井化学",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 3280.0,
+    "adjust": 656.0
+  },
+  "4188": {
+    "name": "三菱ケミカルホールディングス",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 728.0999755859375,
+    "adjust": 364.04998779296875
+  },
+  "4208": {
+    "name": "宇部興産",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 2094.0,
+    "adjust": 209.4
+  },
+  "4324": {
+    "name": "電通グループ",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 3590.0,
+    "adjust": 3590.0
+  },
+  "4452": {
+    "name": "花王",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 7435.0,
+    "adjust": 7435.0
+  },
+  "4502": {
+    "name": "武田薬品工業",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 3697.0,
+    "adjust": 3697.0
+  },
+  "4503": {
+    "name": "アステラス製薬",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 1800.0,
+    "adjust": 9000.0
+  },
+  "4506": {
+    "name": "大日本住友製薬",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 1699.0,
+    "adjust": 1699.0
+  },
+  "4507": {
+    "name": "塩野義製薬",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 5904.0,
+    "adjust": 5904.0
+  },
+  "4519": {
+    "name": "中外製薬",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 5240.0,
+    "adjust": 15719.999999999998
+  },
+  "4523": {
+    "name": "エーザイ",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 7661.0,
+    "adjust": 7661.0
+  },
+  "4543": {
+    "name": "テルモ",
+    "industry": "精密機器",
+    "sector": "技術",
+    "value": 4459.0,
+    "adjust": 17836.0
+  },
+  "4568": {
+    "name": "第一三共",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 3304.0,
+    "adjust": 9912.0
+  },
+  "4578": {
+    "name": "大塚ホールディングス",
+    "industry": "医薬品",
+    "sector": "技術",
+    "value": 4452.0,
+    "adjust": 4452.0
+  },
+  "4631": {
+    "name": "ＤＩＣ",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 2814.0,
+    "adjust": 281.4
+  },
+  "4689": {
+    "name": "Ｚホールディングス",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 642.2000122070312,
+    "adjust": 256.8800048828125
+  },
+  "4704": {
+    "name": "トレンドマイクロ",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 5750.0,
+    "adjust": 5750.0
+  },
+  "4751": {
+    "name": "サイバーエージェント",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 7020.0,
+    "adjust": 1404.0
+  },
+  "4755": {
+    "name": "楽天",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 1125.0,
+    "adjust": 1125.0
+  },
+  "4901": {
+    "name": "富士フイルムホールディングス",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 6338.0,
+    "adjust": 6338.0
+  },
+  "4902": {
+    "name": "コニカミノルタ",
+    "industry": "精密機器",
+    "sector": "技術",
+    "value": 574.0,
+    "adjust": 574.0
+  },
+  "4911": {
+    "name": "資生堂",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 8142.0,
+    "adjust": 8142.0
+  },
+  "5019": {
+    "name": "出光興産",
+    "industry": "石油",
+    "sector": "素材",
+    "value": 2754.0,
+    "adjust": 1101.6
+  },
+  "5020": {
+    "name": "ＥＮＥＯＳホールディングス",
+    "industry": "石油",
+    "sector": "素材",
+    "value": 455.29998779296875,
+    "adjust": 455.29998779296875
+  },
+  "5101": {
+    "name": "横浜ゴム",
+    "industry": "ゴム",
+    "sector": "素材",
+    "value": 1800.0,
+    "adjust": 900.0
+  },
+  "5108": {
+    "name": "ブリヂストン",
+    "industry": "ゴム",
+    "sector": "素材",
+    "value": 4117.0,
+    "adjust": 4117.0
+  },
+  "5201": {
+    "name": "ＡＧＣ",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 3870.0,
+    "adjust": 774.0
+  },
+  "5202": {
+    "name": "日本板硝子",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 556.0,
+    "adjust": 55.6
+  },
+  "5214": {
+    "name": "日本電気硝子",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 2478.0,
+    "adjust": 743.4000000000001
+  },
+  "5232": {
+    "name": "住友大阪セメント",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 3500.0,
+    "adjust": 350.0
+  },
+  "5233": {
+    "name": "太平洋セメント",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 2680.0,
+    "adjust": 268.0
+  },
+  "5301": {
+    "name": "東海カーボン",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 1479.0,
+    "adjust": 1479.0
+  },
+  "5332": {
+    "name": "ＴＯＴＯ",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 6900.0,
+    "adjust": 3450.0
+  },
+  "5333": {
+    "name": "日本碍子",
+    "industry": "窯業",
+    "sector": "素材",
+    "value": 1895.0,
+    "adjust": 1895.0
+  },
+  "5401": {
+    "name": "日本製鉄",
+    "industry": "鉄鋼",
+    "sector": "素材",
+    "value": 1516.0,
+    "adjust": 151.6
+  },
+  "5406": {
+    "name": "神戸製鋼所",
+    "industry": "鉄鋼",
+    "sector": "素材",
+    "value": 625.0,
+    "adjust": 62.5
+  },
+  "5411": {
+    "name": "ジェイエフイーホールディングス",
+    "industry": "鉄鋼",
+    "sector": "素材",
+    "value": 1099.0,
+    "adjust": 109.9
+  },
+  "5541": {
+    "name": "大平洋金属",
+    "industry": "鉄鋼",
+    "sector": "素材",
+    "value": 2317.0,
+    "adjust": 231.7
+  },
+  "5631": {
+    "name": "日本製鋼所",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 2793.0,
+    "adjust": 558.6
+  },
+  "5703": {
+    "name": "日本軽金属ホールディングス",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 2096.0,
+    "adjust": 209.6
+  },
+  "5706": {
+    "name": "三井金属鉱業",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 3680.0,
+    "adjust": 368.0
+  },
+  "5707": {
+    "name": "東邦亜鉛",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 2333.0,
+    "adjust": 233.3
+  },
+  "5711": {
+    "name": "三菱マテリアル",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 2496.0,
+    "adjust": 249.6
+  },
+  "5713": {
+    "name": "住友金属鉱山",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 5206.0,
+    "adjust": 2603.0
+  },
+  "5714": {
+    "name": "ＤＯＷＡホールディングス",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 3965.0,
+    "adjust": 793.0
+  },
+  "5801": {
+    "name": "古河電気工業",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 2835.0,
+    "adjust": 283.5
+  },
+  "5802": {
+    "name": "住友電気工業",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 1524.0,
+    "adjust": 1524.0
+  },
+  "5803": {
+    "name": "フジクラ",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 498.0,
+    "adjust": 498.0
+  },
+  "5901": {
+    "name": "東洋製罐グループホールディングス",
+    "industry": "非鉄・金属",
+    "sector": "素材",
+    "value": 1348.0,
+    "adjust": 1348.0
+  },
+  "6098": {
+    "name": "リクルートホールディングス",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 5305.0,
+    "adjust": 15914.999999999998
+  },
+  "6103": {
+    "name": "オークマ",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 5920.0,
+    "adjust": 1184.0
+  },
+  "6113": {
+    "name": "アマダ",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 1267.0,
+    "adjust": 1267.0
+  },
+  "6178": {
+    "name": "日本郵政",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 887.2000122070312,
+    "adjust": 887.2000122070312
+  },
+  "6301": {
+    "name": "小松製作所",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 3222.0,
+    "adjust": 3222.0
+  },
+  "6302": {
+    "name": "住友重機械工業",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 2881.0,
+    "adjust": 576.2
+  },
+  "6305": {
+    "name": "日立建機",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 3225.0,
+    "adjust": 3225.0
+  },
+  "6326": {
+    "name": "クボタ",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 2464.5,
+    "adjust": 2464.5
+  },
+  "6361": {
+    "name": "荏原製作所",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 4005.0,
+    "adjust": 801.0
+  },
+  "6367": {
+    "name": "ダイキン工業",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 22935.0,
+    "adjust": 22935.0
+  },
+  "6471": {
+    "name": "日本精工",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 999.0,
+    "adjust": 999.0
+  },
+  "6472": {
+    "name": "ＮＴＮ",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 306.0,
+    "adjust": 306.0
+  },
+  "6473": {
+    "name": "ジェイテクト",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 1133.0,
+    "adjust": 1133.0
+  },
+  "6479": {
+    "name": "ミネベアミツミ",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 2638.0,
+    "adjust": 2638.0
+  },
+  "6501": {
+    "name": "日立製作所",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 4845.0,
+    "adjust": 969.0
+  },
+  "6503": {
+    "name": "三菱電機",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 1603.0,
+    "adjust": 1603.0
+  },
+  "6504": {
+    "name": "富士電機",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 4600.0,
+    "adjust": 920.0
+  },
+  "6506": {
+    "name": "安川電機",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 5740.0,
+    "adjust": 5740.0
+  },
+  "6645": {
+    "name": "オムロン",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 9450.0,
+    "adjust": 9450.0
+  },
+  "6674": {
+    "name": "ジーエス・ユアサコーポレーション",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 3365.0,
+    "adjust": 673.0
+  },
+  "6701": {
+    "name": "日本電気",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 6330.0,
+    "adjust": 633.0
+  },
+  "6702": {
+    "name": "富士通",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 15825.0,
+    "adjust": 1582.5
+  },
+  "6703": {
+    "name": "沖電気工業",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 1030.0,
+    "adjust": 103.0
+  },
+  "6724": {
+    "name": "セイコーエプソン",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 1761.0,
+    "adjust": 3522.0
+  },
+  "6752": {
+    "name": "パナソニック",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 1441.0,
+    "adjust": 1441.0
+  },
+  "6753": {
+    "name": "シャープ",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 2099.0,
+    "adjust": 2099.0
+  },
+  "6758": {
+    "name": "ソニー",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 11965.0,
+    "adjust": 11965.0
+  },
+  "6762": {
+    "name": "ＴＤＫ",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 16200.0,
+    "adjust": 16200.0
+  },
+  "6770": {
+    "name": "アルプスアルパイン",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 1435.0,
+    "adjust": 1435.0
+  },
+  "6841": {
+    "name": "横河電機",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 2160.0,
+    "adjust": 2160.0
+  },
+  "6857": {
+    "name": "アドバンテスト",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 9480.0,
+    "adjust": 18960.0
+  },
+  "6902": {
+    "name": "デンソー",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 6630.0,
+    "adjust": 6630.0
+  },
+  "6952": {
+    "name": "カシオ計算機",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 2045.0,
+    "adjust": 2045.0
+  },
+  "6954": {
+    "name": "ファナック",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 27845.0,
+    "adjust": 27845.0
+  },
+  "6971": {
+    "name": "京セラ",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 6914.0,
+    "adjust": 13828.0
+  },
+  "6976": {
+    "name": "太陽誘電",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 5780.0,
+    "adjust": 5780.0
+  },
+  "6988": {
+    "name": "日東電工",
+    "industry": "化学",
+    "sector": "素材",
+    "value": 9380.0,
+    "adjust": 9380.0
+  },
+  "7003": {
+    "name": "三井Ｅ＆Ｓホールディングス",
+    "industry": "造船",
+    "sector": "資本財・その他",
+    "value": 430.0,
+    "adjust": 43.0
+  },
+  "7004": {
+    "name": "日立造船",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 680.0,
+    "adjust": 136.0
+  },
+  "7011": {
+    "name": "三菱重工業",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 3050.0,
+    "adjust": 305.0
+  },
+  "7012": {
+    "name": "川崎重工業",
+    "industry": "造船",
+    "sector": "資本財・その他",
+    "value": 2294.0,
+    "adjust": 229.4
+  },
+  "7013": {
+    "name": "ＩＨＩ",
+    "industry": "機械",
+    "sector": "資本財・その他",
+    "value": 1909.0,
+    "adjust": 190.9
+  },
+  "7186": {
+    "name": "コンコルディア・フィナンシャルグループ",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 416.0,
+    "adjust": 416.0
+  },
+  "7201": {
+    "name": "日産自動車",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 588.7000122070312,
+    "adjust": 588.7000122070312
+  },
+  "7202": {
+    "name": "いすゞ自動車",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 1103.0,
+    "adjust": 551.5
+  },
+  "7203": {
+    "name": "トヨタ自動車",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 8065.0,
+    "adjust": 8065.0
+  },
+  "7205": {
+    "name": "日野自動車",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 1010.0,
+    "adjust": 1010.0
+  },
+  "7211": {
+    "name": "三菱自動車工業",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 293.0,
+    "adjust": 29.3
+  },
+  "7261": {
+    "name": "マツダ",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 859.0,
+    "adjust": 171.8
+  },
+  "7267": {
+    "name": "本田技研工業",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 2981.0,
+    "adjust": 5962.0
+  },
+  "7269": {
+    "name": "スズキ",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 4951.0,
+    "adjust": 4951.0
+  },
+  "7270": {
+    "name": "ＳＵＢＡＲＵ",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 2070.5,
+    "adjust": 2070.5
+  },
+  "7272": {
+    "name": "ヤマハ発動機",
+    "industry": "自動車",
+    "sector": "技術",
+    "value": 2393.0,
+    "adjust": 2393.0
+  },
+  "7731": {
+    "name": "ニコン",
+    "industry": "精密機器",
+    "sector": "技術",
+    "value": 923.0,
+    "adjust": 923.0
+  },
+  "7733": {
+    "name": "オリンパス",
+    "industry": "精密機器",
+    "sector": "技術",
+    "value": 2354.5,
+    "adjust": 9418.0
+  },
+  "7735": {
+    "name": "ＳＣＲＥＥＮホールディングス",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 9050.0,
+    "adjust": 1810.0
+  },
+  "7751": {
+    "name": "キヤノン",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 2335.0,
+    "adjust": 3502.4999999999995
+  },
+  "7752": {
+    "name": "リコー",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 934.0,
+    "adjust": 934.0
+  },
+  "7762": {
+    "name": "シチズン時計",
+    "industry": "精密機器",
+    "sector": "技術",
+    "value": 388.0,
+    "adjust": 388.0
+  },
+  "7832": {
+    "name": "バンダイナムコホールディングス",
+    "industry": "その他製造",
+    "sector": "資本財・その他",
+    "value": 8868.0,
+    "adjust": 8868.0
+  },
+  "7911": {
+    "name": "凸版印刷",
+    "industry": "その他製造",
+    "sector": "資本財・その他",
+    "value": 1664.0,
+    "adjust": 832.0
+  },
+  "7912": {
+    "name": "大日本印刷",
+    "industry": "その他製造",
+    "sector": "資本財・その他",
+    "value": 1930.0,
+    "adjust": 965.0
+  },
+  "7951": {
+    "name": "ヤマハ",
+    "industry": "その他製造",
+    "sector": "資本財・その他",
+    "value": 5660.0,
+    "adjust": 5660.0
+  },
+  "8001": {
+    "name": "伊藤忠商事",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 3211.0,
+    "adjust": 3211.0
+  },
+  "8002": {
+    "name": "丸紅",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 772.4000244140625,
+    "adjust": 772.4000244140625
+  },
+  "8015": {
+    "name": "豊田通商",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 4550.0,
+    "adjust": 4550.0
+  },
+  "8031": {
+    "name": "三井物産",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 2174.5,
+    "adjust": 2174.5
+  },
+  "8035": {
+    "name": "東京エレクトロン",
+    "industry": "電気機器",
+    "sector": "技術",
+    "value": 43540.0,
+    "adjust": 43540.0
+  },
+  "8053": {
+    "name": "住友商事",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 1527.5,
+    "adjust": 1527.5
+  },
+  "8058": {
+    "name": "三菱商事",
+    "industry": "商社",
+    "sector": "素材",
+    "value": 2943.5,
+    "adjust": 2943.5
+  },
+  "8233": {
+    "name": "高島屋",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 1035.0,
+    "adjust": 517.5
+  },
+  "8252": {
+    "name": "丸井グループ",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 1988.0,
+    "adjust": 1988.0
+  },
+  "8253": {
+    "name": "クレディセゾン",
+    "industry": "その他金融",
+    "sector": "金融",
+    "value": 1306.0,
+    "adjust": 1306.0
+  },
+  "8267": {
+    "name": "イオン",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 3535.0,
+    "adjust": 3535.0
+  },
+  "8303": {
+    "name": "新生銀行",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 1453.0,
+    "adjust": 145.3
+  },
+  "8304": {
+    "name": "あおぞら銀行",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 2247.0,
+    "adjust": 224.7
+  },
+  "8306": {
+    "name": "三菱ＵＦＪフィナンシャル・グループ",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 550.0,
+    "adjust": 550.0
+  },
+  "8308": {
+    "name": "りそなホールディングス",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 432.6000061035156,
+    "adjust": 43.26000061035156
+  },
+  "8309": {
+    "name": "三井住友トラスト・ホールディングス",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 3522.0,
+    "adjust": 352.2
+  },
+  "8316": {
+    "name": "三井住友フィナンシャルグループ",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 3723.0,
+    "adjust": 372.3
+  },
+  "8331": {
+    "name": "千葉銀行",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 695.0,
+    "adjust": 695.0
+  },
+  "8354": {
+    "name": "ふくおかフィナンシャルグループ",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 2018.0,
+    "adjust": 403.6
+  },
+  "8355": {
+    "name": "静岡銀行",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 795.0,
+    "adjust": 795.0
+  },
+  "8411": {
+    "name": "みずほフィナンシャルグループ",
+    "industry": "銀行",
+    "sector": "金融",
+    "value": 1556.0,
+    "adjust": 155.6
+  },
+  "8601": {
+    "name": "大和証券グループ本社",
+    "industry": "証券",
+    "sector": "金融",
+    "value": 526.0,
+    "adjust": 526.0
+  },
+  "8604": {
+    "name": "野村ホールディングス",
+    "industry": "証券",
+    "sector": "金融",
+    "value": 619.2000122070312,
+    "adjust": 619.2000122070312
+  },
+  "8628": {
+    "name": "松井証券",
+    "industry": "証券",
+    "sector": "金融",
+    "value": 900.0,
+    "adjust": 900.0
+  },
+  "8630": {
+    "name": "ＳＯＭＰＯホールディングス",
+    "industry": "保険",
+    "sector": "金融",
+    "value": 4110.0,
+    "adjust": 1027.5
+  },
+  "8697": {
+    "name": "日本取引所グループ",
+    "industry": "その他金融",
+    "sector": "金融",
+    "value": 2442.5,
+    "adjust": 2442.5
+  },
+  "8725": {
+    "name": "ＭＳ＆ＡＤインシュアランスグループホールディングス",
+    "industry": "保険",
+    "sector": "金融",
+    "value": 3105.0,
+    "adjust": 931.5
+  },
+  "8750": {
+    "name": "第一生命ホールディングス",
+    "industry": "保険",
+    "sector": "金融",
+    "value": 1871.0,
+    "adjust": 187.1
+  },
+  "8766": {
+    "name": "東京海上ホールディングス",
+    "industry": "保険",
+    "sector": "金融",
+    "value": 5345.0,
+    "adjust": 2672.5
+  },
+  "8795": {
+    "name": "Ｔ＆Ｄホールディングス",
+    "industry": "保険",
+    "sector": "金融",
+    "value": 1444.0,
+    "adjust": 288.8
+  },
+  "8801": {
+    "name": "三井不動産",
+    "industry": "不動産",
+    "sector": "資本財・その他",
+    "value": 2370.0,
+    "adjust": 2370.0
+  },
+  "8802": {
+    "name": "三菱地所",
+    "industry": "不動産",
+    "sector": "資本財・その他",
+    "value": 1837.5,
+    "adjust": 1837.5
+  },
+  "8804": {
+    "name": "東京建物",
+    "industry": "不動産",
+    "sector": "資本財・その他",
+    "value": 1536.0,
+    "adjust": 768.0
+  },
+  "8830": {
+    "name": "住友不動産",
+    "industry": "不動産",
+    "sector": "資本財・その他",
+    "value": 3612.0,
+    "adjust": 3612.0
+  },
+  "9001": {
+    "name": "東武鉄道",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 3030.0,
+    "adjust": 606.0
+  },
+  "9005": {
+    "name": "東急",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 1431.0,
+    "adjust": 715.5
+  },
+  "9007": {
+    "name": "小田急電鉄",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 3235.0,
+    "adjust": 1617.5
+  },
+  "9008": {
+    "name": "京王電鉄",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 8430.0,
+    "adjust": 1686.0
+  },
+  "9009": {
+    "name": "京成電鉄",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 3735.0,
+    "adjust": 1867.5
+  },
+  "9020": {
+    "name": "東日本旅客鉄道",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 7434.0,
+    "adjust": 743.4
+  },
+  "9021": {
+    "name": "西日本旅客鉄道",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 6154.0,
+    "adjust": 615.4
+  },
+  "9022": {
+    "name": "東海旅客鉄道",
+    "industry": "鉄道・バス",
+    "sector": "運輸・公共",
+    "value": 17080.0,
+    "adjust": 1708.0
+  },
+  "9062": {
+    "name": "日本通運",
+    "industry": "陸運",
+    "sector": "運輸・公共",
+    "value": 7820.0,
+    "adjust": 782.0
+  },
+  "9064": {
+    "name": "ヤマトホールディングス",
+    "industry": "陸運",
+    "sector": "運輸・公共",
+    "value": 2836.0,
+    "adjust": 2836.0
+  },
+  "9101": {
+    "name": "日本郵船",
+    "industry": "海運",
+    "sector": "運輸・公共",
+    "value": 2911.0,
+    "adjust": 291.1
+  },
+  "9104": {
+    "name": "商船三井",
+    "industry": "海運",
+    "sector": "運輸・公共",
+    "value": 3185.0,
+    "adjust": 318.5
+  },
+  "9107": {
+    "name": "川崎汽船",
+    "industry": "海運",
+    "sector": "運輸・公共",
+    "value": 2001.0,
+    "adjust": 200.1
+  },
+  "9202": {
+    "name": "ＡＮＡホールディングス",
+    "industry": "空運",
+    "sector": "運輸・公共",
+    "value": 2420.5,
+    "adjust": 242.05
+  },
+  "9301": {
+    "name": "三菱倉庫",
+    "industry": "倉庫",
+    "sector": "運輸・公共",
+    "value": 3365.0,
+    "adjust": 1682.5
+  },
+  "9412": {
+    "name": "スカパーＪＳＡＴホールディングス",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 455.0,
+    "adjust": 45.5
+  },
+  "9432": {
+    "name": "日本電信電話",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 2854.0,
+    "adjust": 1141.6
+  },
+  "9433": {
+    "name": "ＫＤＤＩ",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 3416.0,
+    "adjust": 20496.0
+  },
+  "9434": {
+    "name": "ソフトバンク",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 1436.0,
+    "adjust": 1436.0
+  },
+  "9501": {
+    "name": "東京電力ホールディングス",
+    "industry": "電力",
+    "sector": "運輸・公共",
+    "value": 358.0,
+    "adjust": 35.8
+  },
+  "9502": {
+    "name": "中部電力",
+    "industry": "電力",
+    "sector": "運輸・公共",
+    "value": 1316.0,
+    "adjust": 131.6
+  },
+  "9503": {
+    "name": "関西電力",
+    "industry": "電力",
+    "sector": "運輸・公共",
+    "value": 1068.0,
+    "adjust": 106.8
+  },
+  "9531": {
+    "name": "東京瓦斯",
+    "industry": "ガス",
+    "sector": "運輸・公共",
+    "value": 2288.0,
+    "adjust": 457.6
+  },
+  "9532": {
+    "name": "大阪瓦斯",
+    "industry": "ガス",
+    "sector": "運輸・公共",
+    "value": 1955.0,
+    "adjust": 391.0
+  },
+  "9602": {
+    "name": "東宝",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 4165.0,
+    "adjust": 416.5
+  },
+  "9613": {
+    "name": "エヌ・ティ・ティ・データ",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 1625.0,
+    "adjust": 8125.0
+  },
+  "9735": {
+    "name": "セコム",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 9716.0,
+    "adjust": 9716.0
+  },
+  "9766": {
+    "name": "コナミホールディングス",
+    "industry": "サービス",
+    "sector": "消費",
+    "value": 7270.0,
+    "adjust": 7270.0
+  },
+  "9983": {
+    "name": "ファーストリテイリング",
+    "industry": "小売業",
+    "sector": "消費",
+    "value": 104750.0,
+    "adjust": 104750.0
+  },
+  "9984": {
+    "name": "ソフトバンクグループ",
+    "industry": "通信",
+    "sector": "技術",
+    "value": 10350.0,
+    "adjust": 62099.99999999999
+  },
+  "nikkei225": 30017.917102881176
+}
