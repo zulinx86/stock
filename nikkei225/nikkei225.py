@@ -1,3 +1,4 @@
+import sys
 import csv
 import json
 import datetime
@@ -19,7 +20,7 @@ def preprocess():
 
 def calc(reader):
 	total = 0
-	div = 27.769
+	div = 27.769 # 2020-12-01
 	data = {}
 	for i, stock in enumerate(reader):
 		# remove the last line
@@ -46,16 +47,21 @@ def calc(reader):
 			'adjust': adj
 		}
 
-	nikkei225 = total / div
-	data['nikkei225'] = total / div
+	for code in data:
+		data[code]['percent'] = data[code]['adjust'] / total * 100.0
+
+	nikkei225 = total / div	
+	data['total'] = total
+	data['div'] = div
+	data['nikkei225'] = nikkei225
 
 	return data
 
 def save(data):
 	text = json.dumps(data, ensure_ascii=False, indent=2)
-	print(text)
 	with open('{}.json'.format(datetime.date.today()), 'w') as f:
 		f.write(text)
+	print(text)
 
 if __name__ == '__main__':
 	download()
