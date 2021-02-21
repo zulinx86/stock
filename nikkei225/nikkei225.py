@@ -1,6 +1,5 @@
-import sys
 import csv
-import json
+import sqlite3
 import datetime
 import fractions
 import urllib.request
@@ -21,50 +20,65 @@ def preprocess():
 def calc(reader):
 	total = 0
 	div = 27.769 # 2020-12-01
-	data = {'stock': {}}
+
+	# ready for sqlite3
+	connection = sqlite3.connect('nikkei225.db')
+	cursor = connection.cursor()
+
+	today = datetime.date.today()
+	cursor.execute('CREATE TABLE IF NOT EXISTS "{}" (code INTEGER PRIMARY KEY, name TEXT, industry TEXT, sector TEXT, value REAL, diff REAL, adjvalue REAL, adjdiff REAL)'.format(today))
+
 	for i, stock in enumerate(reader):
 		# remove the last line
 		if i == 225:
 			break
 
 		# get the face value
-		faceval = fractions.Fraction(stock['みなし額面'][:-1])
+		face = fractions.Fraction(stock['みなし額面'][:-1])
 
 		# get the latest close value
 		ticker = yf.Ticker("{}.T".format(stock['コード']))
-		val = ticker.history(period='1d')['Close'][-1]
-		adj = val * 50.0 / faceval
+		hist = ticker.history(period='2d')['Close']
+		value = hist[1]
+		diff = hist[1] - hist[0]
+		adjvalue = value * 50.0 / face
+		adjdiff = diff * 50.0 / face
 
 		# add the adjusted value
-		total += adj
+		total += adjvalue
 
 		# save data
-		data['stock'][stock['コード']] = {
-			'name': stock['銘柄名'],
-			'industry': stock['業種'],
-			'sector': stock['セクター'],
-			'value': val,
-			'adjust': adj
+		data = {
+			'code': stock['コード'],
+			'name': stock['銘柄名'], 
+			'industry': stock['業種'], 
+			'sector': stock['セクター'], 
+			'value': value, 
+			'diff': diff, 
+			'adjvalue': adjvalue, 
+			'adjdiff': adjdiff
 		}
+		print(data)
 
-	for code in data['stock']:
-		data['stock'][code]['percent'] = data['stock'][code]['adjust'] / total * 100.0
+		cursor.execute('INSERT INTO "{}" VALUES (:code, :name, :industry, :sector, :value, :diff, :adjvalue, :adjdiff)'.format(today), data)
 
-	nikkei225 = total / div	
-	data['total'] = total
-	data['div'] = div
-	data['nikkei225'] = nikkei225
+	cursor.execute('CREATE TABLE IF NOT EXISTS summary (date TEXT PRIMARY KEY, total REAL, div REAL, nikkei225 REAL)')
+	cursor.execute(
+		'INSERT INTO summary VALUES (:date, :total, :div, :nikkei225)',
+		{
+			'date': str(datetime.date.today()),
+			'total': total,
+			'div': div,
+			'nikkei225': total / div
+		}
+	)
 
-	return data
+	# finish sqlite3
+	connection.commit()
+	connection.close()
 
-def save(data):
-	text = json.dumps(data, ensure_ascii=False, indent=2)
-	with open('{}.json'.format(datetime.date.today()), 'w') as f:
-		f.write(text)
-	print(text)
 
 if __name__ == '__main__':
 	download()
 	reader = preprocess()
-	data = calc(reader)
-	save(data)
+	calc(reader)
